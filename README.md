@@ -19,3 +19,7 @@
 
 3. Install Req:
     pip install -r requirements.txt
+
+4. Before Running jupyter lab:
+    *point the iphuernal to the venv*
+    python -m ipykernel install --user --name=data_vis
